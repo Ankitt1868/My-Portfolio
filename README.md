@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://amarsin22.github.io/My-Portfolio/" target="_blank"><strong>🔗 Live Demo</strong></a> •
+  <a href="https://ankitt1868.github.io/My-Portfolio/" target="_blank"><strong>🔗 Live Demo</strong></a> •
   <a href="https://github.com/Ankitt1868/My-Portfolio" target="_blank"><strong>📂 Source Code</strong></a>
 </p>
 
